@@ -1,3 +1,5 @@
+<img src="https://machinehack-be.s3.amazonaws.com/iiit_nr_taxi_trip_fare_prediction_challenge/IITR%20LARGE%20BANNER%20%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4OZIV247L3SL57HI%2F20221216%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20221216T090307Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=4857012cc45f623a755a0830752f9c6dcc60f55e5809cb7e517b08154bac438e" alt="Taxi Trip Fare Prediction" width="1200" height="200">
+
 The beginner level hackathon was hosted on <a href  = "https://machinehack.com/home">Machine Hack</a></br>
 <b>Event Duration: </b> 17 Nov 2022 to 17 Dec 2022 </br>
 Link to the hackathon: <a href = "https://machinehack.com/hackathons/iiit_nr_taxi_trip_fare_prediction_challenge/overview"> Taxi Trip Fare Prediction Challenge</a>
