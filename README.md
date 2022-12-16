@@ -1,2 +1,5 @@
 # ML_Hackathon
-In this Repository, I'll be uploading notebooks that were created while participating in various hackathons/competitions
+The repository will contain all the notebooks and datasets that were created/used while participating in various hackathons/competitions
+
+<h1>Taxi Trip Price Prediction</h1>
+This is a beginner level hackathon hosted by <a href="https://machinehack.com/">Mahine Hack</a>
